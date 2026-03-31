@@ -12,14 +12,21 @@
 <img width="702" height="320" alt="image" src="https://github.com/user-attachments/assets/0f85c1c7-9640-4713-bf04-81a7f128842f" />
 <img width="592" height="645" alt="image" src="https://github.com/user-attachments/assets/4946746e-b580-46e5-b577-5780890576ea" />
 
-
 ## Tabulation
+<img width="458" height="614" alt="image" src="https://github.com/user-attachments/assets/c6e592ed-0489-4075-a881-ab7dfb6ec0bb" />
+<img width="447" height="542" alt="image" src="https://github.com/user-attachments/assets/349c56df-fa22-406a-a8aa-ee573fa781d6" />
 
-## Graph
+
+## Circuit diagram
+<img width="1080" height="788" alt="image" src="https://github.com/user-attachments/assets/cf08709d-7585-4581-a2f6-f7ae9c6f4b6b" />
+
+## Output waveform
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/4480622e-3ad7-4d3c-96ad-94c9a2c28e34" />
+
 
 <img width="693" height="167" alt="image" src="https://github.com/user-attachments/assets/b1dcf583-cd07-4a28-8aad-9a4a8c82e5d9" />
 
-Practical frequency of Oscillation =
+**Practical frequency of Oscillation = 1.59 khz**
 
 
-Theoritical Frequency of Oscillation =
+**Theoritical Frequency of Oscillation = 1.58khz**
