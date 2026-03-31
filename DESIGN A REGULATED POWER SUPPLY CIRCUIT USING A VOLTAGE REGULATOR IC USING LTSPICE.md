@@ -8,7 +8,14 @@
 
 ## Tabulations
 
+<img width="443" height="531" alt="image" src="https://github.com/user-attachments/assets/00cb6ea3-7ac9-448c-8281-4307401f1972" />
+
+
+## Circuit diagram
+<img width="1125" height="634" alt="Screenshot 2026-03-30 124852" src="https://github.com/user-attachments/assets/ee2e29e6-4742-4c72-b7db-f5754d7a26ea" />
+
 ## Graph
+<img width="1124" height="624" alt="Screenshot 2026-03-30 124902" src="https://github.com/user-attachments/assets/62d28de7-37da-4fb0-bed0-278db9e3f3d2" />
 
 
 <img width="853" height="183" alt="image" src="https://github.com/user-attachments/assets/ee91e1c1-171c-4208-83ee-e61ea1ba626c" />
